@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and fearefull vexation of one Alexander Nyndge being most horribly tormented with the deuill, from the 20. day of Ianuary, to the 23. of Iuly. At Lyering well in Suffocke: with his prayer afer his deliuerance. Written by his owne brother Edvvard Nyndge Master of Arts, with the names of the witnesses that were at his vexation.</title>
+            <title>Booke declarynge the fearfull vexasion, of one Alexander Nyndge</title>
+            <author>Nyndge, Edward, b. 1543 or 4.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08432</idno><idno type="EEBO-CITATION">99845870</idno>
+  <idno type="VID">10799</idno>
+  <idno type="EEBO-PROQUEST">2240897994</idno>
+  <idno type="STC">STC 18753</idno>
+  <idno type="STC">ESTC S110306</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845870e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1666:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and fearefull vexation of one Alexander Nyndge being most horribly tormented with the deuill, from the 20. day of Ianuary, to the 23. of Iuly. At Lyering well in Suffocke: with his prayer afer his deliuerance. Written by his owne brother Edvvard Nyndge Master of Arts, with the names of the witnesses that were at his vexation.</title>
+                  <title>Booke declarynge the fearfull vexasion, of one Alexander Nyndge</title>
+                  <author>Nyndge, Edward, b. 1543 or 4.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>[by W. Stansby] for W. B[arrett?], and are to bee sold by Edvvard Wright at Christ-Church gate,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition, with minor changes in text, of STC 18752: Nyndge, Edward;  A booke declarynge the fearfull vexasion, of one Alexander Nyndge.</note>
+                  <note>Printer's name from and publisher's name conjectured by STC.</note>
+                  <note>Running title reads: The fearefull vexation, of Alexander Nyndge.</note>
+                  <note>Signatures: A-B⁴ (-B4, blank?).</note>
+                  <note>Date altered in ink to read 1616.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Nyndge, Alexander --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10799:1"/>
+            <p>A TRVE AND FEAREFVLL VEX<g ref="char:EOLhyphen"/>ATION OF ONE ALEXANDER NYNDGE: BEING MOST HORRIBLY TORMEN<g ref="char:EOLunhyphen"/>ted with the Deuill, from the 20. day of <hi>Ianuary, to the</hi> 23. <hi>of</hi> Iuly. <hi>At</hi> Lyeringswell in <hi>Suffocke: With his Prayer after his Deliuerance.</hi>
+            </p>
+            <p>
+               <hi>WRITTEN BY HIS OWNE BROTHER</hi> EDVVARD NYNDGE Master of Arts, with the Names of the Witnesses that were at his Vexation.</p>
+            <figure>
+               <figDesc>two figures, one being attacked by disembodied heads</figDesc>
+            </figure>
+            <p>¶ Imprinted at London for <hi>W. B.</hi> and are to bee sold by EDVVARD WRIGHT <hi>at Christ-Church gate.</hi> 1616.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:10799:2"/>
+            <pb facs="tcp:10799:2"/>
+            <head>❧ <hi>The grieuous and lamentable vexation of ALEXANDER NYNDGE, feare<g ref="char:EOLhyphen"/>fully</hi> tormented with an euill Spirit, from the <hi>20</hi> day of Ianuary, to the <hi>23.</hi> of Iuly.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Diuell, being the principall agent and chiefe practiser in all wickednes. It is much to the purpose we haue in hand, to describe and set him forth, that we may the better be instructed to see what he is able to doe in what manner, and to what end and purpose. At the beginning (as Gods word doth teach vs) he was crea<g ref="char:EOLhyphen"/>ted an holy Angell, full of power &amp; glory. He sinned, he was cast downe from heauen, he was vtterly de<g ref="char:EOLhyphen"/>priued of glory, and preserued for iudgement. This therefore, and this change of his, did not destroy nor take away the former facul<g ref="char:EOLhyphen"/>ty of Diuels, but vtterly corrupt, peruert, and depraue the same. The Essence of Spirits remained, and the power and vnderstan<g ref="char:EOLhyphen"/>ding such as is in Angels. The heauenly Angels are very migh<g ref="char:EOLhyphen"/>ty, and strong, far aboue all earthly creatures in the world. The Infernall Angels are for their strength called Principalities and Powers. Those blessed ones apply all their might to set vp and aduance the glory of God, and to defend and succour his children. The Diuels bend all their force against God, against his glory,<note place="margin">Eph. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Psal. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and against his truth, and people. And this they doe with such
+<pb facs="tcp:10799:3"/> fiercenesse,<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.</note> rage, and cruelty, ther the Holy Ghost painteth them out, vnder the figure of a great red or fiery Dragon and roaring Lion, and (in very deed) any thing comparable vnto them. Hee hath such power and authority that he is called the God of the World. His kingdome is bound and inclosed within certaine li<g ref="char:EOLhyphen"/>mits, for he is the Prince, but of Darknes. But yet within his said dominion (which is in ignorance of God) he exerciseth a migh<g ref="char:EOLhyphen"/>ty tyranny. Our Sauiour compareth him to a strong Man, ar<g ref="char:EOLhyphen"/>med which keepeth his Castle.</p>
+            <p>And what shall we say, for the wisedome, <hi>and vnderstanding of Angells,</hi> which was giuen them in their Creation, was it not far aboue that which Men can reach vnto? When they became Diuels (euen those reprobate Angels) their vnderstanding was not taken away, but turned into malitious craft, and subtilty. He neuer doth any thing but of an euill purpose, and yet he can set such a colour, that the Apostle saith, <hi>He doth change himselfe into the likenesse of an Angell of Light.</hi> For the same cause he is called <hi>the old Serpent.</hi> He was subtill at the beginning, but continuall practise, and long experience, hath made him much more subtill. He hath searched out, and knoweth all the waies that may be to deceiue. So that if God should not chaine him vp his power and subtilty (ioyned together) would ouercome, and seduce the whole world.</p>
+            <p>There be great multitudes of Infernall Spirits as the holy Scriptures doe euery where shew, but yet they doe so ioyne to<g ref="char:EOLhyphen"/>gether in one, that they be called the Diuell in the singular num<g ref="char:EOLhyphen"/>ber. They doe all ioyne together (as our Sauiour teacheth) to vp<g ref="char:EOLhyphen"/>hold one kingdome For though they cannot loue one another, in deed, yet the hatred they beare against God, is as a band, that doth tis them together. The holy Angels are ministring Spirits. sent forth for their sakes that shall inherit the promise. They haue no bodily shape of themselues: But to set forth their speedines, the Scripture applieth it vnto our rude capacity, and painteth them out with wings. When they are to rescue, and succour the seruants of God, they can straight way from the highest heauens
+<pb facs="tcp:10799:3"/> (which are thousand of thousands of miles distant from the earth) be present with them.</p>
+            <p>Such quicknesse is also in the Diuels: for their nature being spirituall, and not loden with any heauenly matter as our bodies are, doth afford vnto them such a nimblenesse as we cannot con<g ref="char:EOLhyphen"/>ceiue. By this they fly through the world, ouer sea, and land, and spy out all aduantages, and occasions to doe euill.</p>
+            <p>To declare what these malignant Spirits haue effected, and brought to passe or what successe they haue attained, would be too long and tedious a péece of worke. I will therefore loose that point of my compasse, and saile forwards in my intended way, to finde out and declare the fearefull vexation of one <hi>Alexander Nyndge,</hi> who was grieuously tormented with an euil Spirit from the xx. of Ianuary, to the 23. of Iuly, and is worthy to be remembred both for example, and warning. For describing the horror and vnheard of misery that fell vpon him, we may be thereby drawne to des<g ref="char:EOLhyphen"/>cend into our selues, and to looke into our soules betimes, least Heauen powre downe the viols of wrath vpon vs.</p>
+            <p>You shall vnderstand therefore that the first fit, and vexation, wherewith this <hi>Alexander Nyndge</hi> was so fearefully perplexed began about seauen of the clocke at night. His Father, mother, and brethren, with the residue of the houshold being at that time in presence. And it was in this manner. His chest, and body fell a swelling, his eies a staring, and his backe bending inwards to his belly which did strike the beholders into a strange wonder, and admiration at the first, yet one of his brothers then also present, named <hi>Edward Nyndge,</hi> a Master of Arts, being boulder then others were of the company, certainly perswading himselfe that it was some euill spirit, that so molested him: gaue him comforta<g ref="char:EOLhyphen"/>ble words of mercy from the holy Scriptures, and also charged the Spirit by the death and Passion of Iesus Christ, that it should declard the cause of that torment. At which the countenance of the same <hi>Alexander</hi> turned more strange, and full of amazement, and feare then it was before, and so returned to his former state againe.</p>
+            <p>This <hi>Alexander Nyndge</hi> hauing his spéech thou at liberty
+<pb facs="tcp:10799:4"/> said vnto the same <hi>Edward,</hi> Brother, he is maruellous afraid of you, therefore I pray you stand by me.</p>
+            <p>With which words the same <hi>Edward</hi> was the more bold, and said to <hi>Alexander,</hi> If thou dost earnestly repent thee of thy sins, and pray to God for the forgiuenesse of the same, (my life for thine) the Diu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll cannot hurt thée, No, rather then he should, I will goe to hell with thee. Then the Spirit (for a small time) racked the said <hi>Alexander</hi> in a far more cruell manner: for he did vse such strange and idle kinds of gestures in laughing, dancing, and such like light behauiours, that he was suspected to be mad: sundry times he refused all kinds of meat for a long space together, insomuch as he séemed to pine away. Sometimes he shaked as if he had had an a<g ref="char:EOLhyphen"/>gue. There was heard also a strange noise or flapping from with<g ref="char:EOLhyphen"/>in his body, Hee would gather himselfe on a round heape vnder his bedcloathes, and being so gathered, he would bounse vp a good height from the bed, and beat his head and other parts of his body against the ground, and bed-stead in such earnest manner, that the beholders did feare that he would thereby haue spoiled himselfe, if they had not by strong hand restrained him, and yet thereby he receiued no hurt at all.</p>
+            <p>In most of his fits he did swell in his body, and in some of them did so greatly excéed therein, as he seemed to be twice so big as his naturall body. He was often seene to haue a certaine swelling or variable lumpe to a great bignesse swiftly running vp and downe between the flesh and the skin.</p>
+            <p>Then would they carry the same <hi>Alexander</hi> downe the cham<g ref="char:EOLhyphen"/>ber, willing him to call vpon God for grace, and earnestly to repent him, and to put his trust only in Christ Iesus. And setting him in a chaire, desired his Father to send for all his neighbors, to helpe to pray for him. And on a suddaine he would be strangely hand<g ref="char:EOLhyphen"/>led, for (sitting in a chaire when the fit came) he would be cast head long vpon the ground, or fall downe, drawing then his lips awry, gnashing with his téeth, wallowing and foming, and the Spirit would vexe him monstrously and transforme his body, and alter the same by many violences. Then the said <hi>Edward</hi> his bro<g ref="char:EOLhyphen"/>ther with one <hi>Thomas Wakefield</hi> would lay hands on <hi>Alexander</hi>
+               <pb facs="tcp:10799:4"/> and set him in the Chaire againe, and there hold him. All that were in the house praying earnestly.</p>
+            <p>And the said <hi>Edward</hi> charging the Spirit with these words, <hi>Thou fowle Feind, I Coniure thee, in the name of Iesus our Sa<g ref="char:EOLhyphen"/>uiour, the Sonne of Almighty God, that thou speake vnto vs.</hi>
+            </p>
+            <p>Whereat the Spirit transformed him very vgly against his Chest, swelling vpwards to his throat, plucking his belly iust to his backe, and so ceased for a time.</p>
+            <p>The partie tormented being somewhat restored, vttered these words; <hi>Sirs, He will speake with me, I pray you let him not speake with mee.</hi> Whereupon all that were present did pray earnestly, at which the Spirit began to vexe him very grieuously and swelled sore <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>he Chest, and in a base sounding and hollow voyce, vttere<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ords. <hi>I will, I will, I will.</hi> Then replyed the said <hi>Edw<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d,</hi> a<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> said; <hi>Thou shalt not, and I charge thee in the Name of Ies<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Christ, that thou speake vnto vs, and not vnto him.</hi> T<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en the Spirit in a hollow voyce said, <hi>Why didst thou tell th<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m? Why didst thou tell them?</hi> Then the said <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> did Charge the Spirit (as aforesaid) to tell them the cause of his comming? And why hee did torment his brother. To the which the Spirit answered. <hi>I come for his Soule.</hi> Then the saide <hi>Edward</hi> said vnto the Spirit, <hi>Wee haue a warrant in the holy Scriptures, that such as doe earnestly repeat them of their sins, and turne vnto God with the only hope of Saluation, through the merits of Iesus Christ, thou mayest not haue them, for Christ is his Redeemer.</hi> The Spirit vttered (in a base hollow soun<g ref="char:EOLhyphen"/>ding voyce) these words, <hi>Christ that was my Redeemer.</hi> Then <hi>Edward</hi> said, <hi>Christ that is his Redeemer, not thy Redeemer, but my brother <hi>Alexander</hi> his Redeemer.</hi>
+            </p>
+            <p>Then the Spirit said in his hollow voyce, <hi>I will haue his Soule and body too,</hi> and so began to torment and racke the same <hi>Alexander,</hi> and difigure him more horriby then before, forcing him to such strange and fearefull skriking as cannot bee vttered by mans power, and was of such strength, as sometimes foure or fiue men, though they had much aduantage against him by bind<g ref="char:EOLhyphen"/>ing him to a chaire, yet could they not rule him. And in shewing
+<pb facs="tcp:10799:5"/> that strength, hee was not perceiued to pant or blow, no more then he had not strained his strength, nor strugled at all. Sometimes hee would cry extreamly, so as teares would come from him in great aboundance. Presently after hee would laugh aloude, and shrill, his mou<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h being shut close. And sometimes he was heaued vp from the ground by force inuisible, the said <hi>Edward Nyndge, Thomas Nyndge, Thomas Wakefield, Thomas Goldsmith, William Miles,</hi> and <hi>William Nyndge Iunior,</hi> hanging vpon the same <hi>Alexander</hi> vnto the middest of the house, and the said <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> putting his mouth vnto the eare of the said disfigured body of his brother <hi>Alexander</hi> said, <hi>Brother, continue in your faith, and if you goe to hell, wee will goe with you.</hi> Then the force did somewhat falle, and the hangers on dr<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>em to the Chaire againe. Then one of his younger brot<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>med <hi>William Nyndge</hi> said; <hi>Wee will keepe him from th<gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> foule Spirit, in despite of thy Nose.</hi>
+            </p>
+            <p>Whereat the transformed body, looked very <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ibly against the said <hi>William,</hi> and turned his most vgly lookes <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to his bro<g ref="char:EOLhyphen"/>ther <hi>Edward</hi> standing on the other side, vttering these hollowe sounding words, <hi>Will you sir, will you sir.</hi> To which the saide <hi>Edward</hi> answered; <hi>Nor I sir, but the merits of Iesus Christ will, and him we earnestly pray to keepe him from thee.</hi> Then all that were there present, to the number of 20. persons and more, fell downe and said the Lords Prayer, with other Sentences, e<g ref="char:EOLhyphen"/>uery one seuerally, and one of the Company vttered words, ioy<g ref="char:EOLhyphen"/>ning <hi>God</hi> and the blessed virgin <hi>Mary</hi> together, whom the said <hi>Edward</hi> rebuked, and said, You offend God: whereat there came a voyce much like <hi>Alexanders</hi> voyce, saying twice, <hi>There bee o<g ref="char:EOLhyphen"/>ther good Prayers.</hi> Whereunto the said <hi>Edward</hi> made answere, and said, <hi>Thou lyest, for there is no other Name vnder Heauen whereby wee may challenge Saluation, but the onely Name of Christ Iesus.</hi> And then the Spirit toares with a fearefull voice, and stretched out his necke long to the Fyre: and then the saide <hi>Edward</hi> desired <hi>Peter Bencham,</hi> Curate of the Towne, to Con<g ref="char:EOLhyphen"/>iure and charge him in the Name of <hi>Iesus</hi> the Sonne of the Al<g ref="char:EOLhyphen"/>mightie, that the Spirit should declare vnto them from whence
+<pb facs="tcp:10799:5"/> hee came? Whether he would? And what was his Name <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which the Spirit made answere in this mumbling manner. <hi>I would come out, I would come out.</hi> Then <hi>Edward</hi> charged him (as before) that he should declare his name. And the Spirit said, <hi>Aubon, Aubon.</hi> They charged him then (as is aforesaid) to make knowne vnto them whence hee came: and the Spirit made answere in a hollow voyce; <hi>From Ireland, from Ireland.</hi> Then they laide the fourth Chapter of Saint <hi>Mathew</hi> against him, where Christ said, It is; <hi>Thou shalt worship the Lord thy God, and him onely shalt thou serue.</hi> Which Sentence, as it was pronounced, the hollow voyce sounded, <hi>My Master, my Master, I am his Disciple, I am his Disciple.</hi> Then they answered, <hi>Thy Master we graunt he is, but thou lyest, thou art none of his Dis<g ref="char:EOLhyphen"/>ciple. Thou art onely an instrument, and scourge to punish the wicked, so farre as pleaseth him.</hi> And then they layd vnto him the eight Chapter of S. <hi>Luke,</hi> whereas Christ himselfe did cast out Deuils. And the Spirit answered hollowly, <hi>Baw-wawe, baw-wawe.</hi> And within a little space after, the body of the saide <hi>Alexander,</hi> being as monstrously transformed as it was before, much like the picture of the Deuill in a play, with an horrible roa<g ref="char:EOLhyphen"/>ring voyce, sounding <hi>Hell-hound,</hi> was most horribly tormented. And they that were present fell to prayer, desiring God earnestly to take away the foule Spirit from him. The said <hi>Edward</hi> then desired to haue the window opened, for, <hi>I trust in God</hi> (said hee) <hi>the fowle Spirit is wearie of our company.</hi> The windowes be<g ref="char:EOLhyphen"/>ing opened accordingly, within two Minuts after the tormented body returned to true shape againe, the said <hi>Alexander</hi> leaping vp, and holding vp his hands, and saying, <hi>Hee is gone, he is gone, Lord I thanke thee.</hi> Whereat all the people that were then pre<g ref="char:EOLhyphen"/>sent fell downe on their knees with the reuerence, and yeelded vnto God exceeding praise and thanksgiuing. This fit ended a<g ref="char:EOLhyphen"/>bout eleuen of the Clocke the same night, and so they went to Supper with great ioy and gladnesse.</p>
+            <p>After foure a clocke in the Morning another fit began: and the said <hi>Alexander</hi> being in his bed, with great trembling said, <hi>I will goe, I will goe.</hi> Then said <hi>Edward, Brother, call your selfe to
+<pb facs="tcp:10799:6"/> remembrance, and beleeue in Iesus Christ your Redeemer,</hi> and take this Sentence for your defence against him whensoeuer you see him come, this is the Sentence; <hi>Speake for mee my Sauiour Iesus Christ.</hi> Which Sentence the said <hi>Alexander</hi> vttered very earnestly many times, with a trembling and fearefull looke, as though something had inuaded him, but we said nothing but his belly swelling a little. This fit continuing halfe an houre, and somewhat more, they tooke him the Bible to read, and so fell to godly Prayer against all assaults and temptations in this maner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>¶ The Prayer.</head>
+                        <p>
+                           <seg rend="decorInit">O</seg>H Lord God of eternall glory, and Father of endlesse mercie, we thy vnworthy Creatures are tolde in the Name of thy beloued Sonne, to present our selues before thee, humbly beseech<g ref="char:EOLhyphen"/>ing thée for his sake, that thou wilt vouchsafe to send downe thy holy Spirit into our hearts, to guide &amp; gouerne vs in all godly wayes, and to defend vs from all manner of temptations of this world, and from the assaults of the Deuill.</p>
+                        <p>Lord God, of thine vnspeakeable goodnesse, graunt that thy grace may alwaies continue with vs, and that at no time wee swarne, or fall from thée, nor may the soule Feind haue any pow<g ref="char:EOLhyphen"/>er ouer vs. Let thy trueth be euermore with vs, and make vs constant in the some, that no temptations seduce vs, or make vs afraid of any thing that hath power euer our bodies, but alwaies confessing that whom order thou pleasest to defend, no Tyrant shall bee able to destroy. Strengthen and increase faith, loue, and charitie in the hearts of all people. Make vs able to resist the vaine pleasures of the world. Let not the perillous al<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urements thereof haue any power to conquer and ouercome vs nor the sub<g ref="char:EOLhyphen"/>tilties of the Deuill be able to deceiue vs. Defend vs (oh Lord) from the many perils, and temptations, which the Deuill our ad<g ref="char:EOLhyphen"/>uersary, practizeth against vs, least wee fall into his snares. Let neither his indeauours, nor the wanton inticements of the flesh
+<pb facs="tcp:10799:6"/> preuaile against vs. We know (oh Lord) that without thy suf<g ref="char:EOLhyphen"/>ferance, he of himselfe can take no hold of vs, nor be able to dimi<g ref="char:EOLhyphen"/>nish the least heyre of our head. Giue therefore vnto vs such grace from thée, that we may be willing to striue against his assaults, and giue vs also such strength as we may bee able to breake and beat downe the force and vehemencie of his strong temptations.</p>
+                        <p>Graunt vs thy heauenly light, whereby we may perfectly see, and perceiue, those malicious and cruell Ensignes, which he lay<g ref="char:EOLhyphen"/>eth to entrap vs, least vnawares wee fall into the same. Euen now (O Lord) in these perelous dayes, the Deuill and his mini<g ref="char:EOLhyphen"/>sters doe most busily séeke to sift vs by all meanes and wayes pos<g ref="char:EOLhyphen"/>sible, and by all euill workes, whereunto he doth moue vs, and doth thrust into our hearts, that (without the assistance of thy grace) he may bring vs within the bai<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, and snares laid for our Soules. And contrarywise, we of our selues haue no ability nor meanes to preuaile against him, vnlesse thou of thy Mercy vouchsafe to be gratious vnto vs, to strengthen vs by thy power, and to defend vs in all temptations which he worketh against vs, that he may not tryumph ouer vs to our destruction.</p>
+                        <p>Wee beseech thee from the bottom of our hearts, to vouchsafe to be our comfort in al our troubles, to defend vs against all temp<g ref="char:EOLhyphen"/>tations, and that it would please thee to direct lead, and gouerne vs in all our thoughts, words, and deeds. So shall we dwell in safety.</p>
+                        <p>Oh Lord, thou knowest, that among all Creatures, man is most rebellious against thee and his offences and transgressions against thee most manifeld. And contrariwise, euery other Crea<g ref="char:EOLhyphen"/>ture in his kinde, doth most worthily shew thy might, power, and promise, and by them is thine omnipotencie declared: But we in our liues doe shew our selues most vnkinde, and vnnaturall chil<g ref="char:EOLhyphen"/>dren towards thee, daily offending thy Diuine Maiestie, and e<g ref="char:EOLhyphen"/>uery Minute transgressing against thy Lawes and Commande<g ref="char:EOLhyphen"/>ments, nothing regarding thy iudgementes, which might in a moment destroy vs. But thou (O Lord) in thy mercie dost vouch<g ref="char:EOLhyphen"/>safe notwithstanding to spaire vs, admonishing vs, to repentance and newnes of life, that through our faithfull conuersion we may
+<pb facs="tcp:10799:7"/> be saued. Raise vs vp therefore (good Lord) from our drousie sluggishnesse, and carelesse securitie.</p>
+                        <p>Suffer vs not any longer to wallow and fumble our selues in our grieuous iniquities. Let not sinne haue so much power in vs, or increase ouer vs. Destroy and ouerthrow Satan, and his pol<g ref="char:EOLhyphen"/>licies. And graunt (we beseech thée) that euen from the bottome of our hearts, we may acknowledge this affliction, which now so grieuously pierceth our poore brother, to be thy Fatherly correcti<g ref="char:EOLhyphen"/>on to put him minde of his duety towards thee, least with too much quietnesse he might haue beene drawne, through the flatterings of this vaine world, from the remembrance and delight of his spirituall ioy in heauenly things. And while it shall be thy good will and pleasure (oh Lord) to exercise him with this thy louing correction, giue him grace that he may abide whatsoeuer it shall please thee to lay vpon him for his amendment. Strengthen him (oh Lord) that hee faint not vnder the burthen of this fearefull temptation, but being vpholdren by the strength of thy holy Spi<g ref="char:EOLhyphen"/>rit in him, he may neuer cease calling vpon thy Name, till thou giue him ful deliuerance to his singuler comfort, and thy eternall glory. And when it shal please thee (oh Lord) fully to deliuer him, wée beseech thee so to worke in our hearts, that we may all, and euery one of vs acknowledge the same to come from thee, to bee thy onely worke, that we may be thankfull for thy so great mer<g ref="char:EOLhyphen"/>cies all the dayes of our liues, and neuer forget thy louing and fa<g ref="char:EOLhyphen"/>therly dealings towards vs, that thy holy Name may be glorified in our liues, and after death we may bee receiued to that ful ioy, which thou hast prepared for thine Elect children, through our only Lord, and Sauiour Iesus Christ, Amen.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After the Prayer ended, he fel into a slumber, but it continued not so, but that he fell into his former vexation: For about eight of the clock the next morning following, the same <hi>Alexander</hi> was marueliosly misformed and cryed out; <hi>Helpe me brother <hi>Edward,</hi> and all you that be my friends, and pray for me, for this foule Feind will come into me, whether I will or no.</hi> And therewith<g ref="char:EOLhyphen"/>al the said <hi>Alexander</hi> made an horrible spitting, his belly being
+<pb facs="tcp:10799:7"/> swelled as before hath béene expressed. And then he breathed for a time, and they put on his hose, and brought him downe into the house, where he was grieuously tormented of al his members, and the voyce roared exceedingly, but they saw nothing, and <hi>Edward</hi> speaking in his brothers eare, said vnto him; <hi>Stand to your true Repentance brother, and your pofessed hope of Saluation, which you deteined yesternight, and then vndoubtedly God will de<g ref="char:EOLhyphen"/>liuer you.</hi> And presently the le<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t eare, at the which the said <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> spake so vehemently, was sodainly wrinkled like a clung Walnut which falleth from the tree before it be ripe.</p>
+            <p>At sight whereof the saide <hi>Edward</hi> being amazed, called the Curate of the Towne, and desired him to take the Bible, and to turne to the place of Scripture, where Christ gaue authority to his Ministers, and willing him to read and vse that authority, for the losing of the same eare which was so wrinckled together. The same <hi>Edward</hi> going to the right eare vttered thereat many Sen<g ref="char:EOLhyphen"/>tences of consolation vnto his brother bring in a monstrous, and horrible vexation. And then diuers of them, tooke vpon them to Coniure, and charge the foule Feind as in the first manner, name<g ref="char:EOLhyphen"/>ly; <hi>Wee coniure thee in the Name of Iesus Christ our Sauiour, the Sonne of the Almightie God, that thou depart and no lon<g ref="char:EOLhyphen"/>ger torment the said Alexander.</hi> And within a while after the same <hi>Alexander</hi> stood vp and said; <hi>Hee is gone, He is gone.</hi>
+            </p>
+            <p>Whereupon hee ioyned with his brother <hi>Edward</hi> in hearty Prayer of acknowledgement, and said after him in this manner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>His Prayer after deliuerance to acknowledge it to come of God onely.</head>
+                        <p>
+                           <seg rend="decorInit">O</seg>H Lord God, I feele in my selfe how mercifully thou hast dealt with me, I was grieuously tormen<g ref="char:EOLhyphen"/>ted, and now by thy goodnesse partly released. I was dangerously assaulted, and now by thy mercie partly deliuered. This reliefe, although I must needes confesse by infallible arguments, to be thy onely worke in me, yet such is the pride of my rebellious flesh, that I feare it wil
+<pb facs="tcp:10799:8"/> not suffer me fully to ascribe the same to proceede of thee, and thine onely goodnesse, but will seeke out other fained causes, according to the vaine deuises of my minde. Therefore I beseech thee most gratious Father) that thou wilt so frame my heart, that I may with whole heart and minde, and with all the powers of my soule acknowledge this my release, and comfort to be thy onely worke wrought in me by thy holy Spirit, and that I may be thankfull for the same all the dayes of my life. Oh Lord, thou hast sworne by thy holines that thou wilt not giue thine honour to any other. Seeing then (deare father) that thou hast sent me this strength, let me be fully perswaded in heart that it commeth from thee, that to thee I may render due honour, praise and thankesgiuing for the same, and the rest of my life, that I may be assured in heart of thy mercifull defence in myne extreame trouble and vexations. As thou hast deliuered mee, that thou wilt according to thy pro<g ref="char:EOLhyphen"/>mise, so continue thy merciful grace and fauour, that thy Name may be therby glorified in me, my soule may be in mercie preser<g ref="char:EOLhyphen"/>ued, and the whole Chuch edefied no wand for euer. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this, they tooke the said <hi>Alexander,</hi> and all of them ioy<g ref="char:EOLhyphen"/>fully accompany him to his brother <hi>Thomas Nyndge</hi> his house, where after his comming thither, hee was not knowne to bee perplexed with the like terrible vexations.</p>
+            <closer>Deo Trino, &amp; vni Gloria.</closer>
+            <closer>
+               <dateline>These things were seene and suffered in the presence of the per<g ref="char:EOLhyphen"/>sons hereunder named, and many others both men and women.</dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Sir Thomas Nyndge.</hi>
+                     </item>
+                     <item>
+                        <hi>William Nyndge.</hi>
+                     </item>
+                     <item>
+                        <hi>William Nindge Iunior.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Clarence.</hi>
+                     </item>
+                     <item>
+                        <hi>William Pye.</hi>
+                     </item>
+                     <item>
+                        <hi>George Oldfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Tomas Wakefeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Thoms Goldsmith.</hi>
+                     </item>
+                     <item>
+                        <hi>William Miles.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Baron.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gathercolt.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Kent.</hi>
+                     </item>
+                     <item>
+                        <hi>George Richarde.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Edwards.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Neaue, <hi>alias</hi> Bolding.</hi>
+                     </item>
+                     <item>
+                        <hi>Ezechiell Clement.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Turner, &amp;c.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:10799:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
